@@ -16,7 +16,7 @@ function Home() {
   };
 
   const handleBucketListClick = () => {
-    router.push("/bucketList");
+    router.push("/bucketList/bucketListItem");
   };
 
   return (
