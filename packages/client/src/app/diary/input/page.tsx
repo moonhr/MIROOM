@@ -1,7 +1,8 @@
 import React from "react";
 import { Button, DatePicker, Textarea } from "@nextui-org/react";
+console.log("다이어리 작성 페이지");
 
-export default function diary() {
+export default function DiaryInputPage() {
   return (
     <>
       <form>
