@@ -8,17 +8,24 @@ function Home() {
   const router = useRouter();
 
   const handleDiaryClick = () => {
-    router.push("/diary/page");
+    router.push("/diary");
+  };
+
+  const handleDiaryClick2 = () => {
+    router.push("/diary/input");
   };
 
   const handleBucketListClick = () => {
-    router.push("/bucketList/page");
+    router.push("/bucketList");
   };
 
   return (
     <div>
       <Button color="primary" variant="shadow" onClick={handleDiaryClick}>
         다이어리
+      </Button>
+      <Button color="primary" variant="shadow" onClick={handleDiaryClick2}>
+        다이어리작성칸
       </Button>
       <Button color="primary" variant="shadow" onClick={handleBucketListClick}>
         버킷리스트
