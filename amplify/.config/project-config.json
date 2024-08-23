@@ -1,7 +1,10 @@
 {
+  "providers": [
+    "awscloudformation"
+  ],
   "projectName": "MIROOM",
   "version": "3.1",
-  "frontend": "next",
+  "frontend": "javascript",
   "javascript": {
     "framework": "react",
     "config": {
@@ -10,8 +13,5 @@
       "BuildCommand": "npm run-script build",
       "StartCommand": "npm run-script start"
     }
-  },
-  "providers": [
-    "awscloudformation"
-  ]
+  }
 }

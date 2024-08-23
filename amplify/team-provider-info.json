@@ -10,6 +10,11 @@
       "StackName": "amplify-miroom-dev-498e4",
       "StackId": "arn:aws:cloudformation:ap-northeast-2:590184078862:stack/amplify-miroom-dev-498e4/9f0dcf20-60ee-11ef-8360-026a5efd1f61",
       "AmplifyAppId": "dfvb9zt7fybq"
+    },
+    "categories": {
+      "api": {
+        "miroom": {}
+      }
     }
   }
 }
