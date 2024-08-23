@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="277px" preserveAspectRatio="none" style="width:1105px;height:277px;" version="1.1" viewBox="0 0 1105 277" width="1105px" zoomAndPan="magnify"><defs/><g><!--MD5=[a6f11bb19cee6b13000111f5ad685e8b]
+cluster Dependencies--><path d="M146.5,182 L240.5,182 A4.5,4.5 0 0 1 243.5,185 L250.5,202.4844 L652.5,202.4844 A3,3 0 0 1 655.5,205.4844 L655.5,262 A3,3 0 0 1 652.5,265 L146.5,265 A3,3 0 0 1 143.5,262 L143.5,185 A3,3 0 0 1 146.5,182 " fill="#FFFFFF" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="143.5" x2="250.5" y1="202.4844" y2="202.4844"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="94" x="147.5" y="196.0059">Dependencies</text><!--MD5=[13dafc6f8dc162372e0dde15e2ed267e]
+entity @nestjs--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #383838; stroke-width: 1.0;" width="68" x="159.5" y="215"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="154.5" y="220"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="154.5" y="239.4844"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="48" x="169.5" y="237.0059">@nestjs</text><!--MD5=[3bd9bd70e5fb04184e27bfecf8044e2d]
+entity @nextui-org--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #383838; stroke-width: 1.0;" width="90" x="451.5" y="215"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="446.5" y="220"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="446.5" y="239.4844"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="70" x="461.5" y="237.0059">@nextui-org</text><!--MD5=[e60cab98b4c0ac43f8c316a1fbc16bc1]
+entity next--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #383838; stroke-width: 1.0;" width="44" x="393.5" y="215"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="388.5" y="220"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="388.5" y="239.4844"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="24" x="403.5" y="237.0059">next</text><!--MD5=[cb3d66c929489a99ecf6c8633ae21583]
+entity react--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #383838; stroke-width: 1.0;" width="49" x="330" y="215"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="325" y="220"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="325" y="239.4844"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="29" x="340" y="237.0059">react</text><!--MD5=[2594f39dc30a606bb3deb88db604df4e]
+entity supertest--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #383838; stroke-width: 1.0;" width="74" x="241.5" y="215"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="236.5" y="220"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="236.5" y="239.4844"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="54" x="251.5" y="237.0059">supertest</text><!--MD5=[a2283c71a1447070e4deb41d875f2619]
+entity tailwindcss--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #383838; stroke-width: 1.0;" width="84" x="555.5" y="215"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="550.5" y="220"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="550.5" y="239.4844"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="64" x="565.5" y="237.0059">tailwindcss</text><ellipse cx="180.2601" cy="24.052" fill="#F8F8F8" rx="60.7601" ry="14.552" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="90" x="135.2601" y="27.7942">app.e2e-spec</text><!--MD5=[a2785d03199c592de6063576bb7e3eae]
+entity _app_module--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="87" x="71" y="70.5"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="67" x="81" y="92.5059">app.module</text><ellipse cx="575.3406" cy="87.742" fill="#F8F8F8" rx="46.8406" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="62" x="544.3406" y="91.4842">app/page</text><ellipse cx="908.689" cy="23.8378" fill="#F8F8F8" rx="67.189" ry="15.8378" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="106" x="855.689" y="27.58">bucketList/page</text><ellipse cx="313.4821" cy="87.4964" fill="#F8F8F8" rx="80.4821" ry="18.4964" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="137" x="244.9821" y="91.2386">bucketListItem/page</text><ellipse cx="1042.4975" cy="24.242" fill="#F8F8F8" rx="52.4975" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="70" x="1007.4975" y="27.9842">diary/page</text><ellipse cx="461.7046" cy="87.742" fill="#F8F8F8" rx="53.2046" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="71" x="426.2046" y="91.4842">input/page</text><ellipse cx="668.4914" cy="87.742" fill="#F8F8F8" rx="31.9914" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="41" x="647.9914" y="91.4842">layout</text><ellipse cx="31.6274" cy="87.742" fill="#F8F8F8" rx="25.6274" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="32" x="15.6274" y="91.4842">main</text><ellipse cx="908.2904" cy="87.742" fill="#F8F8F8" rx="51.7904" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="69" x="873.7904" y="91.4842">next-env.d</text><ellipse cx="778.5267" cy="87.6053" fill="#F8F8F8" rx="63.5267" ry="15.1053" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="97" x="730.0267" y="91.3475">tailwind.config</text><!--MD5=[304f3101d04553fb1d638360943739ab]
+link <b>app.e2e-spec</b> to @nestjs--><path d="M181.353,38.516 C183.563,73.539 189.489,167.442 192.161,209.7805 " fill="none" id="&lt;b&gt;app.e2e-spec&lt;/b&gt;-&gt;@nestjs" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="192.485,214.9213,195.91,205.6872,192.17,209.9312,187.9259,206.1912,192.485,214.9213" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[33c2b2a3014ad995debe12ccc0b2297f]
+link <b>app.e2e-spec</b> to _app_module--><path d="M166.179,38.345 C157.343,46.578 145.843,57.294 135.935,66.526 " fill="none" id="&lt;b&gt;app.e2e-spec&lt;/b&gt;-&gt;_app_module" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="132.084,70.115,141.3956,66.9067,135.7423,66.7067,135.9423,61.0533,132.084,70.115" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[87beeac5aa767b6c857c1f0b855b5842]
+link <b>app.e2e-spec</b> to supertest--><path d="M186.93,38.516 C203.659,73.681 248.628,168.208 268.65,210.2953 " fill="none" id="&lt;b&gt;app.e2e-spec&lt;/b&gt;-&gt;supertest" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="270.851,214.9213,270.596,205.0757,268.7027,210.4064,263.3721,208.513,270.851,214.9213" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[09f1cede387c8b57381f3763a6209ab9]
+link _app_module to @nestjs--><path d="M123.409,104.57 C137.811,130.548 166.193,181.7438 182.066,210.3762 " fill="none" id="_app_module-&gt;@nestjs" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="184.503,214.7705,183.6373,204.9598,182.0786,210.3976,176.6407,208.8389,184.503,214.7705" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[5f4e67d8c10fd0e01a7a4b309e9257a9]
+link <b>app/page</b> to @nextui-org--><path d="M568.765,100.649 C555.305,124.927 524.944,179.693 508.176,209.9397 " fill="none" id="&lt;b&gt;app/page&lt;/b&gt;-&gt;@nextui-org" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="505.606,214.5752,513.4673,208.6423,508.0297,210.2019,506.4701,204.7643,505.606,214.5752" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[d19516c4f8739b2e0f3c9553f515e912]
+link <b>app/page</b> to next--><path d="M552.523,98.848 C524.115,112.593 475.707,139.241 444.5,174 C435.089,184.4822 427.883,198.575 423.008,210.1247 " fill="none" id="&lt;b&gt;app/page&lt;/b&gt;-&gt;next" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="421.062,214.901,428.1618,208.0751,422.9483,210.2705,420.753,205.057,421.062,214.901" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[5a777ac33022d1188a39aa091210aafb]
+link <b>bucketListItem/page</b> to @nextui-org--><path d="M343.077,104.882 C370.64,120.808 412.226,146.553 444.5,174 C457.587,185.1294 470.612,199.4133 480.353,210.8979 " fill="none" id="&lt;b&gt;bucketListItem/page&lt;/b&gt;-&gt;@nextui-org" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="483.787,214.9914,481.0664,205.5258,480.5732,211.1611,474.9379,210.6679,483.787,214.9914" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[364826a4eb5876cb97d6a65aa172c846]
+link <b>bucketListItem/page</b> to react--><path d="M318.527,105.973 C326.056,132.14 340.241,181.4423 348.368,209.687 " fill="none" id="&lt;b&gt;bucketListItem/page&lt;/b&gt;-&gt;react" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="349.812,214.7055,351.1675,204.9504,348.4295,209.9004,343.4794,207.1624,349.812,214.7055" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[8f63402d4e0e6d148d63c6f3083408ca]
+link <b>input/page</b> to @nextui-org--><path d="M464.484,100.649 C470.422,124.827 483.788,179.243 491.235,209.565 " fill="none" id="&lt;b&gt;input/page&lt;/b&gt;-&gt;@nextui-org" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="492.466,214.5752,494.2037,204.8808,491.2733,209.7195,486.4346,206.7892,492.466,214.5752" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[9babd125fa156b8cde07784690105562]
+link <b>input/page</b> to react--><path d="M449.721,100.291 C434.178,116.196 406.459,145.793 386.5,174 C378.355,185.5104 370.578,199.2749 364.731,210.394 " fill="none" id="&lt;b&gt;input/page&lt;/b&gt;-&gt;react" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="362.348,214.9831,370.0461,208.8398,364.6526,210.5459,362.9465,205.1524,362.348,214.9831" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[579437421fb958159b3296be2cff7b5f]
+link <b>layout</b> to @nextui-org--><path d="M653.36,99.018 C623.239,119.985 557.881,165.687 548.5,174 C535.732,185.315 522.798,199.4793 513.023,210.8574 " fill="none" id="&lt;b&gt;layout&lt;/b&gt;-&gt;@nextui-org" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="509.571,214.9129,518.4508,210.6527,512.8121,211.1056,512.3592,205.4669,509.571,214.9129" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[a5fc515d440feb29affdd3dfb1cb809f]
+link <b>layout</b> to next--><path d="M648.374,97.852 C642.342,100.568 635.685,103.479 629.5,106 C626.965,107.033 446.547,172.182 444.5,174 C433.749,183.5477 426.454,198.0217 421.87,209.9949 " fill="none" id="&lt;b&gt;layout&lt;/b&gt;-&gt;next" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="420.069,214.9514,426.9025,207.8589,421.7768,210.2521,419.3837,205.1264,420.069,214.9514" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[5191f4f145c944004aa0f59ba1611530]
+link <b>main</b> to @nestjs--><path d="M43.6763,99.211 C70.7581,123.033 136.321,180.704 171.049,211.2519 " fill="none" id="&lt;b&gt;main&lt;/b&gt;-&gt;@nestjs" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="175.127,214.8387,171.0119,205.8908,171.373,211.5361,165.7277,211.8972,175.127,214.8387" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[49d82cc179279774c0f16d837713b4e0]
+link <b>main</b> to _app_module--><path d="M57.1133,87.5 C59.9154,87.5 62.7175,87.5 65.5195,87.5 " fill="none" id="&lt;b&gt;main&lt;/b&gt;-&gt;_app_module" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="70.5633,87.5,61.5633,83.5,65.5633,87.5,61.5633,91.5,70.5633,87.5" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[d678b438fe3a55122dcbdd13dcaccd76]
+link <b>tailwind.config</b> to @nextui-org--><path d="M746.46,100.527 C705.636,115.831 632.883,143.036 570.5,166 C560.736,169.594 557.145,168.211 548.5,174 C533.8,183.8426 520.427,198.7003 510.925,210.7789 " fill="none" id="&lt;b&gt;tailwind.config&lt;/b&gt;-&gt;@nextui-org" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="507.855,214.7573,516.5203,210.0762,510.9098,210.799,510.187,205.1885,507.855,214.7573" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[72e44fdd6dd30fe78a1965322d0c4d69]
+link <b>tailwind.config</b> to tailwindcss--><path d="M766.341,102.305 C751.645,118.564 725.736,145.901 700.5,166 C678.573,183.4638 651.734,200.2714 630.951,212.4191 " fill="none" id="&lt;b&gt;tailwind.config&lt;/b&gt;-&gt;tailwindcss" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="626.612,214.9391,636.4037,213.88,630.9362,212.4288,632.3873,206.9613,626.612,214.9391" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[f9b898fba542def8843dd4a343f2cce9]
+link <b>bucketList/page</b> to <b>diary/page</b>--><!--MD5=[2e9eb7e4e4f7a7a868fa1be54b6f2765]
+link <b>bucketList/page</b> to <b>next-env.d</b>--><script type="text/plantuml"><![CDATA[MD5=[9eebc8d6307ab60696cecf4b3b0c89c2]
+@startuml
+
+scale max 1920 width
+top to bottom direction
+
+skinparam nodesep 14
+skinparam ranksep 29
+skinparam monochrome true
+skinparam shadowing false
+skinparam defaultFontName Tahoma
+skinparam defaultFontSize 12
+skinparam roundCorner 6
+skinparam dpi 150
+skinparam arrowColor black
+skinparam arrowThickness 0.5
+skinparam packageTitleAlignment left
+
+skinparam usecase {
+  borderThickness 0.5
+}
+
+skinparam rectangle {
+  borderThickness 0.5
+}
+
+skinparam component {
+  borderThickness 1
+}
+
+
+(<b>app.e2e-spec</b>)
+rectangle "app.module" as _app_module
+(<b>app/page</b>)
+(<b>bucketList/page</b>)
+(<b>bucketListItem/page</b>)
+(<b>diary/page</b>)
+(<b>input/page</b>)
+(<b>layout</b>)
+(<b>main</b>)
+(<b>next-env.d</b>)
+(<b>tailwind.config</b>)
+
+package "Dependencies" {
+  [@nestjs]
+  [@nextui-org]
+  [next]
+  [react]
+  [supertest]
+  [tailwindcss]
+}
+
+(<b>app.e2e-spec</b>) ----[thickness=1]> [@nestjs]
+(<b>app.e2e-spec</b>) --[thickness=1]> _app_module
+(<b>app.e2e-spec</b>) ----[thickness=1]> [supertest]
+_app_module ----> [@nestjs]
+(<b>app/page</b>) ----[thickness=1]> [@nextui-org]
+(<b>app/page</b>) ----[thickness=1]> [next]
+(<b>bucketListItem/page</b>) ----[thickness=1]> [@nextui-org]
+(<b>bucketListItem/page</b>) ----[thickness=1]> [react]
+(<b>input/page</b>) ----[thickness=1]> [@nextui-org]
+(<b>input/page</b>) ----[thickness=1]> [react]
+(<b>layout</b>) ----[thickness=1]> [@nextui-org]
+(<b>layout</b>) ----[thickness=1]> [next]
+(<b>main</b>) ----[thickness=1]> [@nestjs]
+(<b>main</b>) -[thickness=1]> _app_module
+(<b>tailwind.config</b>) ----[thickness=1]> [@nextui-org]
+(<b>tailwind.config</b>) ----[thickness=1]> [tailwindcss]
+
+@enduml
+
+
+' View and edit on https://arkit.pro
+]]></script></g></svg>
