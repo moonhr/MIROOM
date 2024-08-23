@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-miroom-dev-498e4-authRole",
+      "UnauthRoleArn": "arn:aws:iam::590184078862:role/amplify-miroom-dev-498e4-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::590184078862:role/amplify-miroom-dev-498e4-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-miroom-dev-498e4-deployment",
+      "UnauthRoleName": "amplify-miroom-dev-498e4-unauthRole",
+      "StackName": "amplify-miroom-dev-498e4",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:590184078862:stack/amplify-miroom-dev-498e4/9f0dcf20-60ee-11ef-8360-026a5efd1f61",
+      "AmplifyAppId": "dfvb9zt7fybq"
+    }
+  }
+}
